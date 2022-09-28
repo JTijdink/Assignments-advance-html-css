@@ -1,0 +1,17 @@
+$background: #c3cfe2;
+$fontfamily:Arial, Helvetica, sans-serif ;
+
+
+body {
+    background: $background;
+    font-family:$fontfamily
+    box-sizing: border-box;
+    font-size: 14px;
+}
+@import "./border";
+@import "./div1";
+@import"./footer";
+@import"./socialmedia";
+@import"./list";
+@import"./media"
+

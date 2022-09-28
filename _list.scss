@@ -1,0 +1,24 @@
+li {
+    padding: 20px 0 20px 0;
+    transform: translateX(190px);
+    list-style: none;
+  }
+  
+  li:hover {
+    transform: translateX(0px);
+    transition: transform 500ms ease-in-out;
+  }
+  
+  i {
+    margin-left: 22px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  a {
+    margin-left: 30px;
+    text-decoration: none;
+    font-family: $fontfamily;
+    color: white;
+  }
+  
